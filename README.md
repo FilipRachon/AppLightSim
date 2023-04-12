@@ -1,6 +1,8 @@
 # Light Simulation App
 
-C++ Project build on top of SDL2 graphics library.
+C++ Project build on top of SDL2 graphics library.  
+<img src="preview1.png" width="400"/> <img src="preview2.png" width="400"/>  
+GUI built from scratch. Light Simulation built from scratch (each pixel gets updated individually, very slow, needs -O3 flag to run smoothly)
 
 ## Building the executable
 ### Linux (Ubuntu)
