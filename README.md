@@ -9,7 +9,7 @@ C++ Project build on top of SDL2 graphics library.
 sudo apt install build-essential
 sudo apt install make
 ```
-* Install SDL packages with
+* Install SDL packages with:
 ```
 sudo apt-get install libsdl2-2.0-0
 sudo apt-get install libsdl2-dev
@@ -22,6 +22,6 @@ Makefile is in the top level directory of this repo. Doesn't handle header file 
 ```
 
 ### Windows
-* Intall GCC and add "..\MinGW\bin" to PATH
+* Intall GCC and add "..\MinGW\bin" to PATH.
 * Build with build.bat. Necessary SDL files should be included in SDL/ directory. For use with different installation of SDL, build.bat should be modified with proper linker flags.
-* Run app.exe
+* Run app.exe.
